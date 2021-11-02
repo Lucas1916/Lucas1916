@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas 👋
 - 🌱 I’m currently learning Lua, JavaScript, C sharp.
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators.
 - 💻  I’m currently working on an Roleplay FiveM Server.
 ---
 <img align="left" alt="Lucas1916 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lucas1916&count_private=true&show_icons=true?theme=buefy&theme=dark"/>
