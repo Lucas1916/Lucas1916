@@ -7,9 +7,9 @@
 ---
 
 <p align='center'>
-  🌱 I'm currently learning LUA, JavaScript, and Security.<br>
-  👯 I'm looking to collaborate with other content creators.<br>
-  👨‍💻 I'm currently working for 2 Roleplay FiveM Server.<br>
+  <b>🌱 I'm currently learning LUA, JavaScript, and Security.</b><br>
+  <b>👯 I'm looking to collaborate with other content creators.</b><br>
+  <b>👨‍💻 I'm currently working for 2 Roleplay FiveM Server.</b><br>
   🤔 I waste most of my time <a href="https://steamcommunity.com/id/Lucas1916/)">playing video games.</a>
 </p>
 
